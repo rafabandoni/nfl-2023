@@ -18,6 +18,7 @@ offense_passing = [
 ]
 
 offense_rushing = [
+    'team',
     'att',
     'rush_yds',
     'ypc',
